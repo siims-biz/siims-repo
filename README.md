@@ -4,3 +4,5 @@ the first github repository for siims
 https://github.com/siims-biz/siims-repo/README.md
 
 18.01.2017 Now I have an idea what README.md is useful for.
+
+13.09.2020 repo clone https://github.com/siims-biz/siims-repo.git
